@@ -1,3 +1,5 @@
 this is my second repo 
 i am learning about branches 
-today is sunday
+today is sunday 
+i am merging two branches 
+i am merging main branch to my local branch 
